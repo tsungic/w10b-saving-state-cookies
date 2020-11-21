@@ -1,0 +1,25 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+h2 {
+  font-style: italic;
+  color: red;
+}
+
+h3 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #262664;
+}
+
+h4 {
+  color: green;
+}
+
+.selction:hover {
+  cursor: pointer;
+}
+/*# sourceMappingURL=style.css.map */
